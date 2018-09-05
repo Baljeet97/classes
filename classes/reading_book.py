@@ -1,4 +1,4 @@
-from class.read_file import Books
+from classes.books_in_file import Books
 
 
 def main():
